@@ -7,3 +7,4 @@ Utilizes LLM API to build a product that could create Brochure for a company to 
 3. OpenAI api with gpt-mini, with beta completions api integrated with pydantic for structured output enforcement
 4. In-notebook application
 5. Uses openai response streaming api and update_display to return results in real time to improve user experience and interactivity
+6. Enables spanish translation and multi-shot prompting
